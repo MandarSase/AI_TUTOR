@@ -1,0 +1,44 @@
+[
+  {
+    "id": "variables",
+    "title": "Variables in Programming",
+    "summary": "A variable is a container that stores a value. Its value can change during program execution. Variables have a name, a type, and a stored value.",
+    "sample_question": "What is a variable, and why do we use it in programming?",
+    "teaching_prompt": "Explain what variables are and give one real-life analogy."
+  },
+  {
+    "id": "loops",
+    "title": "Loops",
+    "summary": "Loops let us repeat a block of code without writing it multiple times. Common loops include for-loops and while-loops.",
+    "sample_question": "Can you explain the difference between a for-loop and a while-loop?",
+    "teaching_prompt": "Teach the concept of loops and explain when you would use them."
+  },
+  {
+    "id": "functions",
+    "title": "Functions",
+    "summary": "A function is a reusable block of code that performs a specific task. Functions help make programs modular and easy to maintain.",
+    "sample_question": "Why do we use functions in programming?",
+    "teaching_prompt": "Explain what a function is and give an example."
+  },
+  {
+    "id": "arrays",
+    "title": "Arrays & Lists",
+    "summary": "Arrays (or lists) store multiple values in a single variable. Values are stored at specific positions called indexes.",
+    "sample_question": "What is an array, and how is it different from a regular variable?",
+    "teaching_prompt": "Teach the concept of arrays and describe how indexing works."
+  },
+  {
+    "id": "oop",
+    "title": "Object-Oriented Programming",
+    "summary": "OOP is a way of structuring code into objects that contain data (attributes) and behavior (methods). Key concepts include classes, objects, inheritance, and encapsulation.",
+    "sample_question": "What is a class, and how is it related to an object?",
+    "teaching_prompt": "Explain OOP in simple words and mention two core principles."
+  },
+  {
+    "id": "ds",
+    "title": "Data Structures",
+    "summary": "Data structures organize data so it can be used efficiently. Examples include arrays, linked lists, stacks, queues, trees, and graphs.",
+    "sample_question": "What is a data structure, and why is it important?",
+    "teaching_prompt": "Explain what data structures are and give one example with usage."
+  }
+]
